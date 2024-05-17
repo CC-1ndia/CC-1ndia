@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**CC-1ndia/CC-1ndia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sourab Ghosh (CC-1)
 
-Here are some ideas to get you started:
+## About Me
+- Hi there! I'm Sourab Ghosh (CC-1), a passionate web and app developer, and a cybersecurity expert.
+- I'm interested in ethical hacking, penetration testing, software designing, IoT, and digital/non-digital electrical projects.
+- Currently studying CS50 at Harvard University and preparing for OSCP, IITJEE, and NEST exams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![Sourab's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=xms7210-bot&show_icons=true&theme=radical)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xms7210-bot&layout=pie)](https://github.com/xms7210-bot/github-readme-stats)
+
+## Connect with Me
+
+- [ ] Website/Blog: [Visit Hind - The Search Engine of India](https://ccindia.vercel.app)
+
