@@ -8,10 +8,10 @@
 
 
 ## GitHub Stats
-![Sourab's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=xms7210-bot&show_icons=true&theme=radical)
+![Sourab's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=CC-1ndia-bot&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xms7210-bot&layout=pie)](https://github.com/xms7210-bot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-1ndia&layout=pie)](https://github.com/CC-1ndia/github-readme-stats)
 
 ## Connect with Me
 
