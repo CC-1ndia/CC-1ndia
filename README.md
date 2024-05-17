@@ -8,7 +8,7 @@
 
 
 ## GitHub Stats
-![Sourab's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=CC-1ndia-bot&show_icons=true&theme=radical)
+![Sourab's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=CC-1ndia&show_icons=true&theme=radical)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-1ndia&layout=pie)](https://github.com/CC-1ndia/github-readme-stats)
